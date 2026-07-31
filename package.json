@@ -1,0 +1,13 @@
+{
+  "name": "tiktok-game-server",
+  "version": "1.0.0",
+  "description": "Server bot TikTok Live for Web Game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "tiktok-live-connector": "^1.2.9",
+    "ws": "^8.16.0"
+  }
+}
